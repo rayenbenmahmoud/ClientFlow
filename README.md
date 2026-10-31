@@ -2,6 +2,14 @@
 
 A compact, full-stack CRM for small service businesses: contacts and companies, a lead-to-deal sales pipeline, tasks and reminders, an activity history, and built-in follow-up automation.
 
+## 🚀 Live Demo
+
+**Try ClientFlow CRM online:** [rayenbenmahmoud-clientflow.duckdns.org](https://rayenbenmahmoud-clientflow.duckdns.org)
+
+Explore the CRM dashboard, manage leads and contacts, move deals through the sales pipeline, and test task management and workflow automation.
+
+> **Demo environment:** All records and user accounts are fictional. This is a portfolio demonstration, not a production CRM.
+
 > **Self-initiated portfolio project.** ClientFlow CRM was built to demonstrate business-systems development, CRM customisation, API design and workflow automation. It is **not** a client project, has **no real users**, and has **not been deployed to production**. All companies, people, e-mail addresses and phone numbers in the demo data are fictional.
 
 ![Dashboard](docs/screenshots/02-dashboard.png)
